@@ -1,5 +1,5 @@
 #app-mount {
-	background: url('https://lucifer990.github.io/games/PmYI9Mu112.png')
+	background: url('https://lucifer990.github.io/games/PmYI9Mu111.png')
 		center/cover no-repeat;
 }
 
@@ -14,14 +14,6 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(
-			to right,
-			rgba(78, 75, 66, 0.2),
-			transparent 30%,
-			transparent 80%,
-			rgba(78, 75, 66, 0.4)
-		),
-		radial-gradient(transparent 50%, rgba(78, 75, 66,0.4));
 	user-select: none;
 	pointer-events: none;
 }
